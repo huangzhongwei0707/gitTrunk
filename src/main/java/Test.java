@@ -1,5 +1,7 @@
 public class Test {
     public static void main(String[] args){
-        System.out.print("12");
+        int i=121;
+        System.out.print(i);
+
     }
 }
